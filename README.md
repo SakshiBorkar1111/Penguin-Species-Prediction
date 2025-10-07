@@ -43,7 +43,7 @@ Even though training accuracy is 100%, the test and cross-validation accuracies 
 Dataset & Tools Used:
 
 
-	Dataset: Palmer Penguins dataset (penguins.csv) containing:
+	Dataset: Penguins dataset (penguins_size.csv) containing:
 
 
 -  bill_length_mm
