@@ -67,7 +67,7 @@ Even though training accuracy is 100%, the test and cross-validation accuracies 
 
 
 
-	Tools & Libraries:
+## 	Tools & Libraries:
 
 
 -	Python
@@ -82,7 +82,7 @@ Even though training accuracy is 100%, the test and cross-validation accuracies 
 -	Scikit-learn (modeling & evaluation)
 
 
-Conclusion:
+## Conclusion:
 
 
 The Decision Tree model predicts penguin species with high accuracy (98.05% on the test set) and generalizes well, as shown by cross-validation scores. It can assist researchers in classifying penguins quickly and accurately. Future improvements could include using ensemble models or deploying the model for field use.
