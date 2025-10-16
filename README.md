@@ -1,15 +1,13 @@
-Penguin Species Prediction
+# Penguin Species Prediction
 
 
-Problem Statement:
-
-
+## Problem Statement:
 This project builds a machine learning model to predict the species of a penguin based on its physical attributes such as bill length, bill depth, flipper length, and body mass.
 The goal is to assist researchers and ecologists in classifying penguin species in the field without requiring expert biologists for manual identification.
 
 
 
-Approach & Evaluation:
+## Approach & Evaluation:
 
 
 -	Model Used: Decision Tree Classifier
@@ -40,10 +38,10 @@ Even though training accuracy is 100%, the test and cross-validation accuracies 
 
 
 
-Dataset & Tools Used:
+## Dataset & Tools Used:
 
 
-	Dataset: Penguins dataset (penguins_size.csv) containing:
+### 	Dataset: Penguins dataset (penguins_size.csv) containing:
 
 
 -  bill_length_mm
